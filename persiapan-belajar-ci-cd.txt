@@ -1,4 +1,4 @@
 Tahapan untuk belajar CI/CD, Yaitu :
 1. belajar Github
-2. Download Aplikasi Git
 3. Belajar Git
+4. Belajar CI/CD
